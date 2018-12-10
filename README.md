@@ -5,6 +5,7 @@ Mohammed S. Khan, Robert J. Parsons, Ramon G. Moreno
 
 Files:
 FFBAI.ipynb (Python Jupyter Notebook, main file, contains comments)
+
 *.csv files (data for 2 models)
 
 Intent:
@@ -24,8 +25,12 @@ Alpha completed
 
 Future:
 Try out new models for better results
+
 Add more data to our set
+
 Try different loss functions to get better fittings
+
+Create User-friendly Interface
 
 More info:
 Paper (Fantasy Football AI Writeup.pdf)
