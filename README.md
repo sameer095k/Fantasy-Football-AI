@@ -9,7 +9,9 @@ FFBAI.ipynb (Python Jupyter Notebook, main file, contains comments)
 
 *.csv files (data for 2 models)
 
-#Intent:
+Documentation (Paper describing program)
+
+# Intent:
 
 Create a fantasy football prediction software
 
