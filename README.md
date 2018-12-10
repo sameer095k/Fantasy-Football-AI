@@ -3,14 +3,6 @@
 # Project Created by:
 Mohammed S. Khan, Robert J. Parsons, Ramon G. Moreno
 
-# Files:
-
-FFBAI.ipynb (Python Jupyter Notebook, main file, contains comments)
-
-*.csv files (data for 2 models)
-
-Documentation (Paper describing program)
-
 # Intent:
 
 Create a fantasy football prediction software
