@@ -1,18 +1,19 @@
 # Fantasy-Football-AI
 
-Project Created by:
+# Project Created by:
 Mohammed S. Khan, Robert J. Parsons, Ramon G. Moreno
 
-Files:
+# Files:
+
 FFBAI.ipynb (Python Jupyter Notebook, main file, contains comments)
 
 *.csv files (data for 2 models)
 
-Intent:
+#Intent:
 
 Create a fantasy football prediction software
 
-Method:
+# Method:
 
 Use Machine Learning alone with data scraping
 
@@ -20,15 +21,15 @@ Technologies Used:
 
 Python, Numpy, BeautifulSoup4, pytorch, pyplot.. many others
 
-Concepts:
+# Concepts:
 
 Neural Network, Regression Learning, Fantasy Football
 
-Status:
+# Status:
 
 Alpha completed
 
-Future:
+# Future:
 
   Try out new models for better results
 
@@ -38,5 +39,5 @@ Future:
 
   Create User-friendly Interface
 
-More info:
+# More info:
 Paper (Fantasy Football AI Writeup.pdf)
