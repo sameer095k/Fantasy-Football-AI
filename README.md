@@ -9,28 +9,34 @@ FFBAI.ipynb (Python Jupyter Notebook, main file, contains comments)
 *.csv files (data for 2 models)
 
 Intent:
+
 Create a fantasy football prediction software
 
 Method:
+
 Use Machine Learning alone with data scraping
 
 Technologies Used:
+
 Python, Numpy, BeautifulSoup4, pytorch, pyplot.. many others
 
 Concepts:
+
 Neural Network, Regression Learning, Fantasy Football
 
 Status:
+
 Alpha completed
 
 Future:
-Try out new models for better results
 
-Add more data to our set
+  Try out new models for better results
 
-Try different loss functions to get better fittings
+  Add more data to our set
 
-Create User-friendly Interface
+  Try different loss functions to get better fittings
+
+  Create User-friendly Interface
 
 More info:
 Paper (Fantasy Football AI Writeup.pdf)
