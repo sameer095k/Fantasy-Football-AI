@@ -34,4 +34,6 @@ Alpha completed
   Create User-friendly Interface
 
 # More info:
-Paper (Fantasy Football AI Writeup.pdf)
+Final Paper in Documentation/
+Presentation in Documentation/
+Project Proposal in Documentation/
