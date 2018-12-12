@@ -34,6 +34,10 @@ Alpha completed
   Create User-friendly Interface
 
 # More info:
+
 Final Paper in Documentation/
+
 Presentation in Documentation/
+
 Project Proposal in Documentation/
+
